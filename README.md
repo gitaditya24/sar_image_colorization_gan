@@ -85,6 +85,9 @@ A Generative Adversarial Network (GAN) project to colorize Synthetic Aperture Ra
 - Training for 200 epochs.  
 - Loss plots and sample outputs demonstrate the model’s ability to produce realistic colorization.
 
+
+![Colorized SAR example](results.png)
+
 ---
 
 ## 🤝 Acknowledgements
