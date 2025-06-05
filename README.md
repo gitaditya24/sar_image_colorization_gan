@@ -39,7 +39,7 @@ A Generative Adversarial Network (GAN) project to colorize Synthetic Aperture Ra
 4. **Download pre-trained weights**
    The `generator.pth` file (≈200 MB) is not included here. Download it from:
    ```
-   [https://your-storage-link.com/generator.pth](https://drive.google.com/file/d/1A3uqVE3udKK47k2KcSP92gYLuCPmWPE3/view?usp=sharing)
+   https://drive.google.com/file/d/1A3uqVE3udKK47k2KcSP92gYLuCPmWPE3/view?usp=sharing
    ```
    Place it in the project root:
    ```
@@ -101,7 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## ✉️ Contact
-
-For questions or feedback, open an issue or email **gitaditya24@example.com**.  
 Happy colorizing! 🚀  
