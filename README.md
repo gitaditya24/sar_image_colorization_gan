@@ -4,23 +4,6 @@ A Generative Adversarial Network (GAN) project to colorize Synthetic Aperture Ra
 
 ---
 
-## 📂 Repository Structure
-
-sar_image_colorization_gan/
-│
-├── app.py                   # Streamlit application for interactive colorization
-├── model.py                 # GAN definitions (U-Net generator & PatchGAN discriminator)
-├── training_notebook.ipynb  # Jupyter notebook with data preparation & training loop
-├── requirements.txt         # Python dependencies
-├── plots/                   # Training loss & metric plots
-│   └── training_loss.png
-├── results/                 # Sample colorized output images
-│   └── example_output.png
-├── .gitignore               # Excludes model weights and other large files
-└── README.md                # Project overview and instructions
-
----
-
 ## 🚀 Features
 
 - **Conditional GAN** based on the Pix2Pix framework  
@@ -56,7 +39,7 @@ sar_image_colorization_gan/
 4. **Download pre-trained weights**
    The `generator.pth` file (≈200 MB) is not included here. Download it from:
    ```
-   https://your-storage-link.com/generator.pth
+   [https://your-storage-link.com/generator.pth](https://drive.google.com/file/d/1A3uqVE3udKK47k2KcSP92gYLuCPmWPE3/view?usp=sharing)
    ```
    Place it in the project root:
    ```
